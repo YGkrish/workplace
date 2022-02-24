@@ -1,0 +1,25 @@
+     
+
+Packages:-
+=============== 
+-> A package consists of a collection of files that perform a task 
+-> Linux packasges streamline software installation, maintenance, and removal.
+  
+
+#yum install packagename  --> Install package in redhat linux
+#yum install update       --> To upgrade linux from 7.3 to 7.4
+#rpm -e                   --> To delete packages
+#rpm -e packagename       --> To delete packages in linux
+#rpm -qa                  --> To get the information of all the packages install
+ 				on the system.
+#rpm -qi http             --> To find out the version and build date of a package.
+
+===============================================================
+
+Crontab:-
+
+-> It's a daemon Enables you to run Scheduled jobs Every minute job on daily basis
+-> Can be used by both normal user's and root otherwise.
+
+Ex:- Daily 3pm backup 
+    
