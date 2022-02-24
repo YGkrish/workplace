@@ -1,0 +1,72 @@
+   
+ 1. What is pac?
+ => Proxy pac is simple java script which gives the nearest proxy to
+    to a user based on his IP Address.
+  
+ 2. Use of pac file?
+ => pac file give proxy to the user based on user locations
+
+  
+ 3. What is proxy ?
+ => We can diffined certain role in proxy based on the proxy roles 
+    the traffic should allow  or Deni.
+
+ 4. What is DNS?
+  => DNS is (domain name services) transilator IP Address converts 
+     a host name and hostname converts a IP Address.
+    
+ 5. What is FTP? 
+   => File transfer protocal (FTP) file transfor into a one mechine 
+      to another mechine in linux.
+     
+ 6. What is Direct?
+    => If give the any url without proxy through directly goes on interanet.
+
+ 7. What is BYPASS?
+   => Sending from proxy to another from another proxy is bypass.
+
+ 8. What is PSM ?
+   => We can white list the url's into a proxypsm.pac file
+
+ 9. What is Subnet mask ?
+   => The subnet mask splits the IP address into the host and network Address.
+ 
+ 10. What is Subnet ?
+   => A subnet is a logical Subdevision of an IP networks
+      Subnet dividing a network into two or more networks is called Subnetting. 
+ 
+ 11. What is EXCLUSIONS ?
+   => We can add the URL's and whitelist by the Exclusions and Exclusions.list consists of 
+      a certain roles based upon roles.
+
+ 12. What is Locations.list ?
+   => We can identify the perticular site Locations what is the primary locatiopn and what  
+      is the Secondry loctions.
+
+ 13. What is Network list ?
+   => Site codes and subnet and subnet mask
+
+ 14. What is Numarical list ?
+   => Sitecodes and subnet and subnetEndnumber.
+
+ 15. What is debug ?
+   => Visible by the pac file roles 
+ 
+ 16. What is Implesive ?
+   => It's taking IP Address and shows the locations and  Direct.
+ 
+ 17. How to check proxy ? 
+    => Browser settings
+    => Entity settings
+    => CMD
+
+ 18. How to check proxy in user ?
+   => go/proxyinfo.in
+
+  19. What is the PAC URL's ?
+   => production == http://proxy.novertis.net:2010
+   => test       == http://Testproxypac.novertis.net:2010
+   => PSM        == http://proxypac.novertis:2010/proxypsm.pac
+
+  
+   
